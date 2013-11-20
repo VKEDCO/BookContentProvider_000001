@@ -11,4 +11,7 @@ Details of the tables are in CPBookDbAdptr.java.
 4) To start: 1) unzip into a folder; 2) open in Eclipse; 3) Run
 as Android application to install the content provider.
 
+5) src/ folder contains source files for Android 4.3 with some
+minor modifications.
+
 
